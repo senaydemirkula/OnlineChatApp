@@ -79,3 +79,7 @@ Additional Features
 • Private messaging between users. 
 • Message editing and deletion capabilities. 
 • Search functionality to find specific messages or users.
+![image](https://github.com/user-attachments/assets/4303d81c-158d-4999-aa39-8f129667bc26)
+![image](https://github.com/user-attachments/assets/2f19edfc-6cf9-464d-8da7-222fb26e333a)
+
+
